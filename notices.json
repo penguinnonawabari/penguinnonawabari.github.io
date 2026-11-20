@@ -1,20 +1,16 @@
 {
   "notices": [
     {
-      "id": "2026-11-coming-soon-110",
-      "title": "近日、大型アップデート！",
-      "body": "いつも遊んでくれてありがとう！\nもうすぐ、バージョン1.1を配信します。\n\n・ペンギンたちに小物を着せられる「着せかえ」\n・頭・メガネ・体の小物が全300種類\n・小物が出る「ガチャ」と、集めた小物を見られる「ずかん」\n・5羽のペンギンみんなが、最初から主役に選べるように（タカマル・ツキの解放に使ったおさかなコインはお返しします）\n・ペンギンたちの表情がもっと明るく\n・英語でも遊べるように\n\nおさかなコインをためて、待っていてね🐧",
-      "titleEn": "Big Update Coming Soon!",
-      "bodyEn": "Thanks for playing!\nVersion 1.1 is coming soon.\n\n- Dress-up: put accessories on your penguins\n- 300 head, glasses and body accessories\n- A gacha for accessories, plus a Collection to see everything you've found\n- All five penguins can be your main character from the start (Fish Coins spent unlocking Takamaru or Tsuki will be refunded)\n- Brighter, happier penguin faces\n- Play in English\n\nSave up your Fish Coins and stay tuned 🐧",
-      "startsAt": "2026-11-20T00:00:00+09:00",
-      "endsAt": "2026-12-06T23:59:59+09:00"
-    },
-    {
-      "id": "2026-11-released-102",
-      "title": "広告を減らすアップデートを配信しました",
-      "body": "いつも遊んでくれてありがとう！\nバージョン1.0.2を配信しました。\n\nステージクリアのあとや、やり直すときに出る広告の回数を減らしました。\n\nまだの人は、App Storeからアップデートしてね🐧",
-      "startsAt": "2026-11-19T00:00:00+09:00",
-      "endsAt": "2026-12-06T23:59:59+09:00"
+      "id": "2026-11-released-110",
+      "title": "バージョン1.1を配信しました！",
+      "titleEn": "Version 1.1 Is Here!",
+      "body": "いつも遊んでくれてありがとう！\nバージョン1.1を配信しました。\n\n・ペンギンたちに小物を着せられる「着せかえ」\n・頭・メガネ・体の小物が全300種類\n・小物が出る「ガチャ」と、集めた小物を見られる「ずかん」\n・5羽のペンギンみんなが、最初から主役に選べるように\n・ペンギンたちの表情がもっと明るく\n・英語でも遊べるように\n\nガチャを楽しんでもらえるように、おさかなコイン300枚をプレゼント🐟\nまだの人は、App Storeからアップデートしてね🐧",
+      "bodyEn": "Thanks for playing!\nVersion 1.1 is out now.\n\n- Dress-up: put accessories on your penguins\n- 300 head, glasses and body accessories\n- A gacha for accessories, plus a Collection to see everything you've found\n- All five penguins can be your main character from the start\n- Brighter, happier penguin faces\n- Play in English\n\nHere are 300 Fish Coins to try out the gacha 🐟",
+      "startsAt": "2026-11-20T09:15:00+09:00",
+      "endsAt": "2027-01-20T23:59:59+09:00",
+      "giftCoins": 300,
+      "giftHeading": "1.1 配信のお祝い",
+      "giftHeadingEn": "Version 1.1 Celebration"
     }
   ],
   "noticesV2": [
@@ -27,7 +23,11 @@
       "linkURL": "https://docs.google.com/forms/d/e/1FAIpQLScyF7VWi5BeY3wvtsLXsPS8XPBxMsPMRRqVsPJQzkFjJlrLEQ/viewform",
       "linkTitle": "アンケートに答える",
       "giftCoins": 100,
-      "giftHeading": "アンケートのお礼"
+      "giftHeading": "アンケートのお礼",
+      "titleEn": "Tell Us What You Think",
+      "bodyEn": "Thanks for playing!\nWe want to make the game even better, so we'd love to hear from you.\nIt's a quick survey that takes about a minute.\nTell us anything — what to fix, what you'd like to see added.\nAs a thank-you, we'll send you 100 Fish Coins 🐟",
+      "linkTitleEn": "Take the Survey",
+      "giftHeadingEn": "Thanks for Your Feedback"
     },
     {
       "id": "2026-11-suberidase-penguin",
@@ -36,7 +36,10 @@
       "startsAt": "2026-11-19T11:20:00+09:00",
       "endsAt": "2026-12-20T23:59:59+09:00",
       "linkURL": "https://apps.apple.com/jp/app/id6836212165",
-      "linkTitle": "App Storeで見る"
+      "linkTitle": "App Storeで見る",
+      "titleEn": "Our New Game Is Out!",
+      "bodyEn": "Thanks for playing!\nThe maker of Penguin Territory has released a new puzzle game, \"Suberidase! Penguin\" 🐧\n\nOnce your penguin starts sliding across the ice, it can't stop until it hits a rock — guide it to the exit!\nThere are 1,000 stages, a new daily puzzle every day, and over 170 outfits to collect.\n\nIt's free to play, so give it a look!",
+      "linkTitleEn": "View on the App Store"
     }
   ]
 }
