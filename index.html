@@ -303,6 +303,32 @@
   </section>
 </main>
 
+
+<!-- more-games:start（宣伝/app-sites/build.py が書く。手で直さない） -->
+<style>
+  .mg { background: #13294B; color: #fff; padding: 64px 0; }
+  .mg h2 { color: #fff; margin: 0 0 6px; }
+  .mg p { margin: 0 0 22px; color: #BFD3EE; }
+  .mg-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
+  .mg-game { display: flex; gap: 14px; align-items: center; padding: 14px; border-radius: 20px; text-decoration: none; color: #fff;
+             background: rgba(255,255,255,.08); border: 2px solid rgba(255,255,255,.2); transition: transform .15s; }
+  a.mg-game:hover { transform: translateY(-3px); }
+  .mg-game img { width: 60px; height: 60px; border-radius: 14px; flex: none; }
+  .mg-game b { display: block; font-weight: 900; line-height: 1.3; }
+  .mg-game span { display: block; font-size: 13px; color: #BFD3EE; line-height: 1.5; }
+  .mg-hub { background: #2F86F0; border-color: #2F86F0; }
+  .mg-hub span { color: #E6F1FF; }
+  @media (prefers-reduced-motion: reduce) { .mg-game { transition: none; } }
+</style>
+<section class="mg" id="more">
+  <div class="wrap">
+    <h2>同じ作者のゲーム</h2>
+    <p>どれも無料。遊び比べてみてください。</p>
+    <div class="mg-grid"><a class="mg-game" href="https://apps.apple.com/app/id6836212165" rel="noopener"><img src="lp/game-suberidase.png" alt="" width="60" height="60" loading="lazy"><div><b>すべりだせ！ペンギン</b><span>氷をすべる脱出パズル</span></div></a><a class="mg-game" href="https://apps.apple.com/app/id6836707082" rel="noopener"><img src="lp/game-chanbara.png" alt="" width="60" height="60" loading="lazy"><div><b>フリックチャンバラ</b><span>フリックで斬るチャンバラ</span></div></a><div class="mg-game"><img src="lp/game-kirikae.png" alt="" width="60" height="60" loading="lazy"><div><b>切り替え特急</b><span>分岐を切り替えて走る電車ゲーム・もうすぐ配信（審査中）</span></div></div><a class="mg-game mg-hub" href="https://11amawip.github.io/"><img src="lp/avatar.png" alt="" width="60" height="60" loading="lazy"><div><b>ぜんぶ見る →</b><span>開発中のりゃまさんのページへ</span></div></a></div>
+  </div>
+</section>
+<!-- more-games:end -->
+
 <footer>
   <div class="wrap">
     <nav>
